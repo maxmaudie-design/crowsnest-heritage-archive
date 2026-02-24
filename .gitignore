@@ -1,0 +1,14 @@
+# Downloaded PDFs (large files, don't commit)
+crowsnest_pdfs/
+
+# Extracted text
+crowsnest_text/
+
+# Database
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
